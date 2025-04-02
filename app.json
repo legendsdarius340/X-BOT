@@ -89,22 +89,22 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "",
+      "value": "HRKU-22cf3c12-00c2-4a75-8e76-f022f84578b6",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "Insert your Heroku app name (required)",
-      "value": "",
+      "value": "oluthe23",
       "required": true
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "BELTAH-MD;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidURXVDRJNDBwSWxkWWYzWGl0SkxqSXY0YU5ZNzU4T293YW9FMnlVSzIwTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYWJrd0lDQmt2QUtLL1ExTzNhdWlRNTl5aUlxSG05aU4vcUMrT3Z2K2xFQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrQWtUNjd0c1JMeTMyamxuN09QK0tTelVPdHVjNTNiOFhQQzdWcFF0d2xvPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJRY3A0SURoUHplcmlJZ1JsN1R5TW9BTmpsLzlXWHNhcUl6OUZPaGU4NVhRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImdFRmd3QVpxN0RUUWc0amRCRkdLR242YStab0djN2ZmQUJZeHNIUXNlVjQ9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Imk4YUd5b1o2dWJmWlR2eWEyRDR2L1F3aUR1bnVvTVpwODFmclBSL1Y1UUk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVUlkSVVzcUNlOU82WGhxdWl2QU8rdmFRWHRXVFB6WkRUVnE3ejJkRmttVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibHB0Skh5elRpRjhLZUp3TUdrR3RyT2NweXNjNXJOcDZmZ3ZldkFwT0QxWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNFeENsMldmdlY3WmwyUElqeXU5M3R4bVdZSFV6UzJJYWNtK1d0NkJJbzVvWW54eEt5L2lJMTdXWGxIV2o4R0xzZm84UW5sN1dPNnhQeldZeXRyTGl3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6OTMsImFkdlNlY3JldEtleSI6Ik45YndPMlRSajg2REZrNGMySTUxclA1UFR1OVRIUWRXMU5TUkQ0QUNoNWc9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Inc5WFV0c3ZiUVJXZ21xWmtlY3o0bUEiLCJwaG9uZUlkIjoiNGZlMjI3ZWUtYmE5Ni00MjE2LWFlMDEtZmU3ZTczNmNkOTNjIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikw3bVg4YytPdGVtUzloUG9hS0RtdlIxakVvWT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI3akxxanlUM0RLSk1jM0cwNWhhNC9ndEJDeGM9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiUjZDUkxLUUsiLCJtZSI6eyJpZCI6IjI1NDc0Mjc5MDM1Mzo3QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IkxlZ2VuZHMgRGFyaXVzIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNLU2o5c29DRUo2bHM3OEdHQUlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiIyclNOd2g5UkdrUTErb2VGMXBSNUszY2diWFhaZjkrRU0xbUZIaDdPWHo0PSIsImFjY291bnRTaWduYXR1cmUiOiJVcnpBclB1dXZ3OEpmaWRwZmlaZDFZUUEveVNYMzlNd0dISWpnWlQ2MmNGZkVJeUNYcTdjU0lnemJyOExNNUVyTTVVQ2syNjh4WTZmd3BMSUIzdTlDZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiNU1NL1U3SzFBajMvVThZVDRLVURkSEhPcHhSMjg1akdacGJWazg0Zm13MTB4SlpzT0JlK3IvUVA2UzViN21VSE9CZWxRYkR6K00xaEJ0MnJkY0dCanc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTQ3NDI3OTAzNTM6N0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJkcTBqY0lmVVJwRU5mcUhoZGFVZVN0M0lHMTEyWC9maEROWmhSNGV6bDgrIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzQzNTczNjc1LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUY4biJ9",
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "",
+      "value": "Legends Darius",
       "required": true
     },
     "URL": {
@@ -113,7 +113,7 @@
       "required": true
     },
     "AUTO_READ_MESSAGES": {
-      "description": "yes toactivate no to deactivate",
+      "description": "yestoactivate no to deactivate",
       "value": "no",
       "required": false  
     },
